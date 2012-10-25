@@ -5,7 +5,7 @@ Remove all data from grid
 Reset
 Add data to grid from a db call
 Add data to grid from a excel spreadsheet
-Sort data by column
+Sort rows
 Copy data/save data
 Get selected cell coordinates or contents
 Delete rows or columns
