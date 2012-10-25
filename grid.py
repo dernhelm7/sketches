@@ -1,29 +1,3 @@
-"""
-Feature list:
-
-Make a table/grid
-Remove all data from grid
-Reset
-Add data to grid from a db call
-Add data to grid from a excel spreadsheet
-Sort data by column
-Copy data/save data
-Get selected cell coordinates or contents
-Delete rows or columns
-Autosize to fit contents: row labels, column labels, and cells, by width and height
-Filter (hide rows that don't match a given value)
-Hide rows/cols ^
-Click and drag to change table/row/column size
-Make cells editable
-
-Other possibilities:
-
-Additional selection functionality
-Basic templates: color every other row, etc., that can be applied to the whole grid, by name. Allow user-defined.
-Styling for the junction between a grid and its labels: bottom & right border of col & row labels, respectively
-Merge cells
-"""
-
 from kivy.uix.widget import Widget
 
 class Grid(Widget):
