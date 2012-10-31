@@ -21,6 +21,7 @@ class Grid(Widget):
     def clear(self):
         '''remove all cell and label values'''
         pass
+
     #grid setup/teardown
     def add_row(self, label=None, num=1, loc=self.rows):
         '''self.add_row(): insert one row at the bottom of the grid'''
